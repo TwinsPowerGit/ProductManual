@@ -38,6 +38,29 @@
 ## 六. 服务中心
 
 * [6.1 门店订单管理](liu-.-fu-wu-zhong-xin/6.1-men-dian-ding-dan-guan-li.md)
-* [Page 2](liu-.-fu-wu-zhong-xin/page-2.md)
-* [Page 3](liu-.-fu-wu-zhong-xin/page-3.md)
-* [Page](liu-.-fu-wu-zhong-xin/page.md)
+* [6.2 数字服务台](liu-.-fu-wu-zhong-xin/6.2-shu-zi-fu-wu-tai.md)
+* [6.3 活动管理](liu-.-fu-wu-zhong-xin/6.3-huo-dong-guan-li.md)
+* [6.4 设备管理](liu-.-fu-wu-zhong-xin/6.4-she-bei-guan-li.md)
+
+## 七. 智慧商城
+
+* [7.1 有价券商城](qi-.-zhi-hui-shang-cheng/7.1-you-jia-quan-shang-cheng.md)
+* [7.2 积分商城](qi-.-zhi-hui-shang-cheng/7.2-ji-fen-shang-cheng.md)
+* [7.3 本地生活](qi-.-zhi-hui-shang-cheng/7.3-ben-di-sheng-huo.md)
+
+## 八. 财务管理
+
+* [8.1 清算单](ba-.-cai-wu-guan-li/8.1-qing-suan-dan.md)
+* [8.2 收付通](ba-.-cai-wu-guan-li/8.2-shou-fu-tong.md)
+* [8.3 应付账单](ba-.-cai-wu-guan-li/8.3-ying-fu-zhang-dan.md)
+* [8.4 集团账单](ba-.-cai-wu-guan-li/8.4-ji-tuan-zhang-dan.md)
+* [8.5 应收账单](ba-.-cai-wu-guan-li/8.5-ying-shou-zhang-dan.md)
+
+## 九. 系统配置及小工具
+
+* [9.1 系统配置](jiu-.-xi-tong-pei-zhi-ji-xiao-gong-ju/9.1-xi-tong-pei-zhi.md)
+* [9.2 系统快速工具](jiu-.-xi-tong-pei-zhi-ji-xiao-gong-ju/9.2-xi-tong-kuai-su-gong-ju.md)
+
+## 十. 商管云小程序
+
+* [商管云小程序操作手册](shi-.-shang-guan-yun-xiao-cheng-xu/shang-guan-yun-xiao-cheng-xu-cao-zuo-shou-ce.md)
