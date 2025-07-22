@@ -1,18 +1,15 @@
 # Table of contents
 
-## 一. 数据分析
-
-* [1.1 小程序分析](README.md)
-* [1.2 会员分析](yi-.-shu-ju-fen-xi/1.2-hui-yuan-fen-xi.md)
-* [1.3 销售分析](yi-.-shu-ju-fen-xi/1.3-xiao-shou-fen-xi.md)
-* [1.4 积分分析](yi-.-shu-ju-fen-xi/1.4-ji-fen-fen-xi.md)
-
-## 二. 商户中心
-
-* [2.1 商场/门店管理](er-.-shang-hu-zhong-xin/2.1-shang-chang-men-dian-guan-li.md)
-* [2.2 分账组/结算户管理](er-.-shang-hu-zhong-xin/2.2-fen-zhang-zu-jie-suan-hu-guan-li.md)
-* [2.3 门店业态管理](er-.-shang-hu-zhong-xin/2.3-men-dian-ye-tai-guan-li.md)
-* [2.4门店标签管理](er-.-shang-hu-zhong-xin/2.4-men-dian-biao-qian-guan-li.md)
+* [一. 数据分析](README.md)
+  * [1.1 小程序分析](<README (1).md>)
+  * [1.2 会员分析](yi-.-shu-ju-fen-xi/1.2-hui-yuan-fen-xi.md)
+  * [1.3 销售分析](yi-.-shu-ju-fen-xi/1.3-xiao-shou-fen-xi.md)
+  * [1.4 积分分析](yi-.-shu-ju-fen-xi/1.4-ji-fen-fen-xi.md)
+* [二. 商户中心](er-.-shang-hu-zhong-xin/README.md)
+  * [2.1 商场/门店管理](er-.-shang-hu-zhong-xin/2.1-shang-chang-men-dian-guan-li.md)
+  * [2.2 分账组/结算户管理](er-.-shang-hu-zhong-xin/2.2-fen-zhang-zu-jie-suan-hu-guan-li.md)
+  * [2.3 门店业态管理](er-.-shang-hu-zhong-xin/2.3-men-dian-ye-tai-guan-li.md)
+  * [2.4门店标签管理](er-.-shang-hu-zhong-xin/2.4-men-dian-biao-qian-guan-li.md)
 
 ## 三. 顾客中心
 
