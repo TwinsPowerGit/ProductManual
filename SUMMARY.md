@@ -1,6 +1,7 @@
 # Table of contents
 
-* [一. 数据分析](README.md)
+* [TP产品更新记录](README.md)
+* [一. 数据分析](<README (2).md>)
   * [1.1 小程序分析](<README (1).md>)
   * [1.2 会员分析](yi-.-shu-ju-fen-xi/1.2-hui-yuan-fen-xi.md)
   * [1.3 销售分析](yi-.-shu-ju-fen-xi/1.3-xiao-shou-fen-xi.md)
